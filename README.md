@@ -10,5 +10,5 @@ The imaging technique that I find inspiring for my assignment is from the movie 
 
 Part 2
 
-I think the image processing coding technique could assist in implementing the image technique. To achieve the result, I will first collect many images of different faces at the same angle and position, then I will use the image() function to get different parts of different images, and then put the pieces together into a complete image. To animate every parts of the face, I'm going to use the transform technique to achieve the turning effect. Here is the video of the coding tutorial https://www.youtube.com/watch?v=GZOrpJ-GNiY&t=1639s (the code is just showed in the video) 
+I believe that image processing coding techniques could assist in implementing the image technique. To achieve the desired result, I will first gather many images of different faces from the same angle and position. Then, I will use the `image()` function to extract different parts from various images and assemble them into a complete image. To animate every part of the face, I plan to employ transformation techniques to achieve the turning effect. Here is the video of the coding tutorial https://www.youtube.com/watch?v=GZOrpJ-GNiY&t=1639s (the code is just showed in the video) 
 ![Alt text](assets/image-2.png)
